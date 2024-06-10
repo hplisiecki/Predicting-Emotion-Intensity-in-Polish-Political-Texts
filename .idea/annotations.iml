@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/shed/discrete_words/models" />
+      <excludeFolder url="file://$MODULE_DIR$/wandb/run-20231121_185051-of9hy75h/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/wandb/run-20231121_185410-qz54keq4/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/wandb/run-20231121_220320-2cq3telx/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.10 (main)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
